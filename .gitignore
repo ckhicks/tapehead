@@ -1,0 +1,46 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Environment
+.env
+*.env
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+env/
+
+# Editor junk
+.vscode/
+.idea/
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Test/output artifacts
+*.sqlite3
+*.db
+*.pid
+*.sock
+*.mp3
+*.wav
+output/
+coverage/
+htmlcov/
+.tox/
+.pytest_cache/
+.cache
+
+# Docker overrides
+docker-compose.override.yml
+
+# Git stuff
+*.orig

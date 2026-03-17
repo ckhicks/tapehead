@@ -1,0 +1,16 @@
+#
+# Copy this file to .env and edit with valid access key and secret!
+#
+
+# Cloudflare R2 Access Credentials
+R2_ACCESS_KEY_ID=your_r2_access_key
+R2_SECRET_ACCESS_KEY=your_r2_secret_key
+
+# Cloudflare R2 Endpoint URL (S3-compatible)
+R2_ENDPOINT_URL=https://6d10a29f827b44c06b7cda293c83ec60.r2.cloudflarestorage.com
+
+# R2 Bucket Name
+R2_BUCKET=tapehead
+
+# Public R2 URL (bucket must be public or presigned URLs must be used)
+R2_PUBLIC_BASE_URL=https://pub-0ceeaf4ef6c140ae97664c2ff2988776.r2.dev

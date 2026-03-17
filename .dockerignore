@@ -1,0 +1,23 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Env + config
+.env
+*.env
+
+# IDE & OS junk
+.vscode/
+.idea/
+.DS_Store
+
+# Git
+.git
+.gitignore
+
+# Local output or media
+output/
+*.log
+*.mp3
+*.wav
+*.db
