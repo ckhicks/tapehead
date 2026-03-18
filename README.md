@@ -1,4 +1,3 @@
-
 # Tapehead 🎧
 
 **Tapehead** is a lightweight, cloud-native audio processing microservice. It:
